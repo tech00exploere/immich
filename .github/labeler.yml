@@ -11,7 +11,7 @@ documentation:
           - docs/static/**
 
 🖥️web:
-  - changed-files:
+  - changed-files:///#
       - any-glob-to-any-file:
           - web/src/**
           - web/static/**
